@@ -8,5 +8,5 @@
  null
 
 
-[![marcgj wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcgj)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/40517507-cecb-4f73-9bb1-bf341d8e2516.svg)](https://wakatime.com/@40517507-cecb-4f73-9bb1-bf341d8e2516)
 
