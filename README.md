@@ -1,3 +1,11 @@
+## Welcome to my GitHub!
+
+### Hello, I'm Marc
+ Currently a Computer Science student
+
+### Currently Working On:
+ (blank)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcgj&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![marcgj wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcgj)](https://github.com/anuraghazra/github-readme-stats)
+
