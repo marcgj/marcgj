@@ -28,4 +28,5 @@
 	<img title="rust" alt="rust" src="./icons/rust.svg" width="40" height="40" />
 	<img title="svelte" alt="rust" src="./icons/svelte.svg" width="40" height="40" />
 	<img title="redis" alt="redis" src="./icons/redis.svg" width="40" height="40" />
+	<img title="angular" alt="angular" src="./icons/angular.svg" width="40" height="40" />
 </p>
