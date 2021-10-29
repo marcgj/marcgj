@@ -10,6 +10,7 @@
 	<img title="html" alt="html" src="./icons/html.svg" width="40" height="40"/>
 	<img title="js" alt="js" src="./icons/javascript.svg" width="40" height="40"/>
 	<img title="python" alt="pyhton" src="./icons/python.svg" width="40" height="40"/>
+	<img title="ts" alt="ts" src="./icons/typescript.svg" width="40" height="40" />
 </p>
 
 ## Technologies and tools
@@ -27,6 +28,4 @@
 	<img title="rust" alt="rust" src="./icons/rust.svg" width="40" height="40" />
 	<img title="svelte" alt="rust" src="./icons/svelte.svg" width="40" height="40" />
 	<img title="redis" alt="redis" src="./icons/redis.svg" width="40" height="40" />
-	<img title="ts" alt="ts" src="./icons/typescript.svg" width="40" height="40" />
-		
 </p>
