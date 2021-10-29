@@ -1,7 +1,7 @@
 ## Welcome to my GitHub!
 
 ### Hello, I'm Marc
- Currently a Computer Science student
+ Currently a Computer Engineering student
  
 ## Programing languages
 <p align="center">
