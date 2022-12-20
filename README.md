@@ -36,8 +36,6 @@
  		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=20>
 	</a>
 </p>
-<br>
-<br>
 <h2 align="center">Statistics <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="30"></h2>
 <div align="center">
 	<picture>
