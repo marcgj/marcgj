@@ -39,6 +39,32 @@
 <br>
 <br>
 <h2 align="center">Statistics <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="30"></h2>
+<div align="center">
+	<picture>
+	<source 
+	srcset="https://github-readme-stats.vercel.app/api?username=marcgj&show_icons=true&theme=dark"
+	media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	srcset="https://github-readme-stats.vercel.app/api?username=marcgj&show_icons=true"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=marcgj&show_icons=true" height="125"/>
+	</picture>
+	<picture>
+	<source 
+	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"
+	media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="125"/>
+	</picture>
+</div>
 <p align="center">
-	<a href="https://wakatime.com/@40517507-cecb-4f73-9bb1-bf341d8e2516"><img src="https://wakatime.com/badge/user/40517507-cecb-4f73-9bb1-bf341d8e2516.svg" alt="Total time coded since Oct 7 2021" /></a>
+	<a href="https://wakatime.com/@40517507-cecb-4f73-9bb1-bf341d8e2516">
+	<img src="https://wakatime.com/badge/user/40517507-cecb-4f73-9bb1-bf341d8e2516.svg" alt="Total time coded since Oct 7 2021" />
+	</a>
 </p>
