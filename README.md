@@ -1,32 +1,38 @@
-## Welcome to my GitHub!
 
-### Hello, I'm Marc
- Currently a Computer Engineering student
- 
-## Programing languages
+<h2 align="center">Hi, I'm Marc<img src="" width="50"></h2>
 <p align="center">
-	<img title="java" alt="java" src="./icons/java.svg" width="40" height="40" />
-	<img title="c" alt="c" src="./icons/c.svg" width="40" height="40" />
-	<img title="html" alt="html" src="./icons/html.svg" width="40" height="40"/>
-	<img title="js" alt="js" src="./icons/javascript.svg" width="40" height="40"/>
-	<img title="python" alt="pyhton" src="./icons/python.svg" width="40" height="40"/>
+ I'm a computer science student interested in Artificial Intelligence and Software development looking forward to learn and master new technologies and solve real life problems with them.
 </p>
 
-## Technologies and tools
+<h2 align="center">Technology Stack <img src="" width="50"></h2>
 <p align="center">
-	<img title="Git" alt="Git" src="./icons/git.svg" width="70" height="40" />
-	<img title="linux" alt="linux" src="./icons/linux-tux.svg" width="40" height="40"/>
-	<img title="vscode" alt="vscode" src="./icons/vscode.svg" width="40" height="40"/>
-	<img title="intellij" alt="intellij" src="./icons/intellij.svg" width="40"/>
-	<img title="heroku" alt="heroku" src="./icons/heroku.svg" width="40" height="40"/>
-	<img title="docker" alt="docker" src="./icons/docker.svg" width="40" height="40"/>	
+	<!-- C -->
+	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height=20>
+	<!-- Java -->
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" height=20>
+	<!-- Python -->		
+	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=20>
+	<!-- Docker -->
+	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height=20>
+	<!-- Postgres -->
+	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height=20>
+	<!-- VSCode -->
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=20>
+	<!-- Latex -->
+	<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height=20>
+	<!-- Git -->
+	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=20>
+	<!-- GitHub -->
+	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20>
 </p>
-
-## Interested in learning
+<h2 align="center">Contact me<img src="" width="50"></h2>
 <p align="center">
-	<img title="rust" alt="rust" src="./icons/rust.svg" width="40" height="40" />
-	<img title="svelte" alt="rust" src="./icons/svelte.svg" width="40" height="40" />
-	<img title="redis" alt="redis" src="./icons/redis.svg" width="40" height="40" />
-	<img title="angular" alt="angular" src="./icons/angular.svg" width="40" height="40" />
-	<img title="ts" alt="ts" src="./icons/typescript.svg" width="40" height="40" />
+	<!-- mail -->
+	<a href="mailto: mgaspjoval2002@gmail.com">
+ 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=20>
+	</a>
+	<!-- Linkedin -->
+	<a href="https://www.linkedin.com/in/marc-gasp%C3%A0-joval-aba4651b3/">
+ 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=20>
+	</a>
 </p>
