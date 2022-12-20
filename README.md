@@ -38,7 +38,7 @@
 </p>
 <br>
 <br>
-<br>
-<p align="left">
+<h2 align="center">Statistics <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="30"></h2>
+<p align="center">
 	<a href="https://wakatime.com/@40517507-cecb-4f73-9bb1-bf341d8e2516"><img src="https://wakatime.com/badge/user/40517507-cecb-4f73-9bb1-bf341d8e2516.svg" alt="Total time coded since Oct 7 2021" /></a>
 </p>
