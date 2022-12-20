@@ -1,10 +1,10 @@
 
-<h2 align="center">Hi, I'm Marc<img src="" width="50"></h2>
+<h2 align="center">Hi, I'm Marc<img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30"></h2>
 <p align="center">
  I'm a computer science student interested in Artificial Intelligence and Software development looking forward to learn and master new technologies and solve real life problems with them.
 </p>
 
-<h2 align="center">Technology Stack <img src="" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/3u9d5yIvAVFPFl9cow/giphy.gif" width="30"></h2>
 <p align="center">
 	<!-- C -->
 	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height=20>
@@ -25,7 +25,7 @@
 	<!-- GitHub -->
 	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=20>
 </p>
-<h2 align="center">Contact me<img src="" width="50"></h2>
+<h2 align="center">Contact me<img src="https://media.giphy.com/media/VeMWtL6VXigFFIgAtx/giphy.gif" width="30"></h2>
 <p align="center">
 	<!-- mail -->
 	<a href="mailto: mgaspjoval2002@gmail.com">
@@ -35,4 +35,10 @@
 	<a href="https://www.linkedin.com/in/marc-gasp%C3%A0-joval-aba4651b3/">
  		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=20>
 	</a>
+</p>
+<br>
+<br>
+<br>
+<p align="left">
+	<a href="https://wakatime.com/@40517507-cecb-4f73-9bb1-bf341d8e2516"><img src="https://wakatime.com/badge/user/40517507-cecb-4f73-9bb1-bf341d8e2516.svg" alt="Total time coded since Oct 7 2021" /></a>
 </p>
