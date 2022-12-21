@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi, I'm Marc <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30"></h2>
 <p align="center">
- I'm a Computer Science (Major in Computing) student interested in Artificial Intelligence and Software development looking forward to learn and master new technologies and solve real life problems with them.
+ I'm a Computer Engineering (Major in Computing) student interested in Artificial Intelligence and Software development looking forward to learn and master new technologies and solve real life problems with them.
 </p>
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/3u9d5yIvAVFPFl9cow/giphy.gif" width="30"></h2>
