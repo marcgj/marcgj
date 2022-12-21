@@ -18,6 +18,14 @@
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height=20>
 	<!-- VSCode -->
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=20>
+	<!-- Jupyter -->
+	<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" height=20>
+	<!-- CLion -->
+	<img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" height=20>
+	<!-- IntelliJ -->
+	<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height=20>
+	<!-- Linux -->
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height=20>
 	<!-- Latex -->
 	<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height=20>
 	<!-- Git -->
