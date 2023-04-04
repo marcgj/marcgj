@@ -73,4 +73,5 @@
 	<a href="https://wakatime.com/@40517507-cecb-4f73-9bb1-bf341d8e2516">
 	<img src="https://wakatime.com/badge/user/40517507-cecb-4f73-9bb1-bf341d8e2516.svg" alt="Total time coded since Oct 7 2021" />
 	</a>
+	<img src="https://komarev.com/ghpvc/?username=marcgj&label=Profile%20views&color=0e75b6&style=flat" alt="macaco" />
 </p>
