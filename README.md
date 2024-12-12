@@ -70,7 +70,9 @@
 	</picture>
 </div>
 <p align="center">
-	<img src="https://wakatime.com/share/@marcgj/8fc3a737-4674-4396-9a77-580c6c21ac31.png" /><
+	<img src="https://wakatime.com/share/@marcgj/8fc3a737-4674-4396-9a77-580c6c21ac31.png" />
+</p>
+<p align="center">
 	<a href="https://wakatime.com/@40517507-cecb-4f73-9bb1-bf341d8e2516">
 	<img src="https://wakatime.com/badge/user/40517507-cecb-4f73-9bb1-bf341d8e2516.svg" alt="Total time coded since Oct 7 2021" />
 	</a>
